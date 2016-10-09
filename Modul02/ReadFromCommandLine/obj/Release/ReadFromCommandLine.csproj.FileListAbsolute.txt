@@ -3,3 +3,4 @@ C:\aula\primeri.csharp.terminal\Modul02\ReadFromCommandLine\bin\Release\ReadFrom
 C:\aula\primeri.csharp.terminal\Modul02\ReadFromCommandLine\bin\Release\ReadFromCommandLine.pdb
 C:\aula\primeri.csharp.terminal\Modul02\ReadFromCommandLine\obj\Release\ReadFromCommandLine.exe
 C:\aula\primeri.csharp.terminal\Modul02\ReadFromCommandLine\obj\Release\ReadFromCommandLine.pdb
+C:\aula\primeri.csharp.terminal\Modul02\ReadFromCommandLine\obj\Release\ReadFromCommandLine.csprojResolveAssemblyReference.cache
